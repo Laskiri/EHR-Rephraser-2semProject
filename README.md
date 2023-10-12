@@ -1,6 +1,6 @@
 # EHR-Rephraser-2semProject
 A web-application that connects to the OpenAI GPT3.5 LLM with the purpose of explaining Electronic Medical Records through the use of simple language and terminology. 
-For this project we used HTML, CSS, JS, NodeJS, EXPRESS, Jest and MongoDB (Mongoose as ODM). 
+For this project we used Pug, CSS, JS, NodeJS, EXPRESS, Jest and MongoDB (Mongoose as ODM). 
 
 This application was developed with reference to my 2nd Semester project, on my bachelor in software at AAU CPH. 
 The application was developed in collaboration with my project group, that consisted of 7 people. 
